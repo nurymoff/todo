@@ -1,6 +1,5 @@
 # todo
 ### To-Do list website for a school project.
-[LINK to online preview](https://gigachat.000webhostapp.com/)
 
 ![](todo_preview.jpg)
 

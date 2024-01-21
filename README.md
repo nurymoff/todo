@@ -1,7 +1,7 @@
 # todo
 ### To-Do list website for a school project.
 
-![](todo-preview.png)
+![](todo_preview.png)
 
 todo is a simple dark themed to-do list website comprising of the filling form (taskname, description, deadline, importance) and a grid of tasks. 
 It is written in:
